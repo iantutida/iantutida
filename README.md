@@ -1,16 +1,19 @@
-## Hi there 👋
+## Ian Tutida Leite 🛠️
 
-<!--
-**iantutida/iantutida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação | 5º Semestre
 
-Here are some ideas to get you started:
+🧢 20 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente aprendendo PHP, Laravel, C, Java e React. Recentemente me juntei ao Arara Bots como trainee, mais especificamente na equipe de desenvolvimento do drone.
+
+---
+
+
+### Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iantutida)](https://www.linkedin.com/in/iantutida)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:iantutida@gmail.com)](mailto:iantutida@gmail.com)
+
+---
+<br>
+
